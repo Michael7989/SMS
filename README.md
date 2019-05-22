@@ -14,7 +14,7 @@
 	-README.md<br>
 本系统已自带训练好的模型，可直接调用进行测试，测试集测试精确度99.7%<br>
 测试步骤:<br>
-1.在当前目录下在终端中运行"pip install -r requirement.txt"(若为pip3，则运行"pip3 install -r requirement.txt")<br>
-2.①代码测试，可运行"python test.py"，得到运行数据准确率的信息。<br>
-  ②手动测试：运行"python test_online.py"，根据提示手动输入待验证短信即可。<br>
+1.在当前目录下在终端中运行"`pip install -r requirement.txt`"(若为pip3，则运行"`pip3 install -r requirement.txt`")<br>
+2.①代码测试，可运行"`python test.py`"，得到运行数据准确率的信息。<br>
+  ②手动测试：运行"`python test_online.py`"，根据提示手动输入待验证短信即可。<br>
 
