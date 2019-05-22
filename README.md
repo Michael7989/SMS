@@ -1,5 +1,5 @@
 # 垃圾短信识别系统
-## model: fasttext
+## model: `fasttext`
 作者：李栋<563408650@qq.com><br>
 这是一个python版的垃圾短信识别算法<br>
 系统环境要求：Linux<br>
