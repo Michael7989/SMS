@@ -1,0 +1,8 @@
+scipy
+wheel
+numpy
+scikit-learn
+Cython
+fasttext
+jieba
+
