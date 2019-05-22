@@ -2,7 +2,7 @@
 ## model: `fasttext`
 作者：李栋<563408650@qq.com><br>
 这是一个python版的垃圾短信识别算法<br>
-系统环境要求：Linux<br>
+系统环境要求：`Linux`<br>
 本文件夹包含文件如下：<br>
 	-test_seg fasttext格式测试集<br>
 	-segment.py 分词代码<br>
